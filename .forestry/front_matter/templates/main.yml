@@ -1,0 +1,11 @@
+---
+pages:
+- main.md
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: textarea
+  label: Bod
+  name: bod
